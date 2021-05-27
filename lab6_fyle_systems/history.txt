@@ -1,4 +1,4 @@
-   1  sudo su
+   1  sudo su #it was written here manually 
    2  ls -l /dev/sda{,[123]}
    3  lsblk --list
    4  cat /proc/diskstats
