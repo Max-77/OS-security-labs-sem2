@@ -1,0 +1,11 @@
+-- Logs begin at Thu 2020-09-10 21:36:56 MSK. --
+мая 28 21:28:33 localhost.localdomain printf[3451]: Hello, MEPhI!
+мая 28 21:31:43 localhost.localdomain systemd[1]: Started MEPhI hello service.
+мая 28 21:31:43 localhost.localdomain printf[3817]: Hello, MEPhI!
+мая 28 21:31:43 localhost.localdomain systemd[1]: mephi.service: Succeeded.
+мая 28 21:31:56 localhost.localdomain systemd[1]: Started MEPhI hello service.
+мая 28 21:31:56 localhost.localdomain printf[3858]: Hello, MEPhI!
+мая 28 21:31:56 localhost.localdomain systemd[1]: mephi.service: Succeeded.
+мая 28 21:33:32 localhost.localdomain systemd[1]: Started MEPhI hello service.
+мая 28 21:33:32 localhost.localdomain printf[4018]: Hello, MEPhI!
+мая 28 21:33:32 localhost.localdomain systemd[1]: mephi.service: Succeeded.
